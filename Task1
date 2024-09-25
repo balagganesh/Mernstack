@@ -1,0 +1,40 @@
+Basic React App
+This project is a simple React application built as part of a MERN stack task. The purpose of this app is to familiarize myself with the core concepts of React, including components, JSX, and basic state management.
+
+Project Overview
+This application serves as the starting point for creating dynamic user interfaces using React.js. It renders a basic layout with React's core structure and serves as a foundation for further learning in the MERN stack.
+
+Features
+React functional components
+JSX rendering
+React useState for basic state management
+Live reloading with npm start
+Installation and Setup
+To run this project locally, follow these steps:
+
+Clone the repository:
+
+
+git clone https://github.com/yourusername/basic-react-app.git
+
+
+cd basic-react-app
+
+
+npm install
+
+
+bash
+
+npm start
+
+The app will be running at http://localhost:3000/.
+
+Technologies Used
+React.js - JavaScript library for building user interfaces
+HTML/CSS - For basic styling and layout
+JavaScript (ES6+) - Logic and functionality
+ 
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
